@@ -33,5 +33,3 @@ Every script in this repository corresponds to a YouTube video breaking down the
 
 You can watch the full walk-throughs on the YouTube channel:
 👉 [Adriancito_tecnico](https://www.youtube.com/@Adriancito_tecnico)
-
-## Repository Structure
